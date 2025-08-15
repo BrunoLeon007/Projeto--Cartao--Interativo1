@@ -1,0 +1,13 @@
+/*reset css e estilos globais*/
+:root{
+--cor-fundo:#f0f2f5;
+--cor-branco:#ffff;
+--cor-testo-primario:#1c1e21;
+----cor-borda:#dcdfe3;
+--cor-ascento:#007bff;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
